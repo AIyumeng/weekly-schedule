@@ -1,0 +1,111 @@
+{
+  "semester": "2026春",
+  "courses": [
+    {
+      "name": "端边云协同的数据聚合与计算模型",
+      "weekday": 1,
+      "sections": [3,4],
+      "weeks": { "start": 1, "end": 8 },
+      "class": "1班",
+      "teachers": ["惠维", "丁菡", "王鸥"],
+      "location": "5-1W105"
+    },
+    {
+      "name": "机器学习工具、平台与系统",
+      "weekday": 1,
+      "sections": [3,4],
+      "weeks": { "start": 9, "end": 16 },
+      "class": "1班",
+      "teachers": ["刘龙军"],
+      "location": "5-1E101"
+    },
+    {
+      "name": "英语实践",
+      "weekday": 2,
+      "sections": [3,4],
+      "weeks": { "start": 5, "end": 8 },
+      "class": "6班",
+      "teachers": ["武佳懿"],
+      "location": "4-3210"
+    },
+    {
+      "name": "英语实践",
+      "weekday": 2,
+      "sections": [5,6],
+      "weeks": { "start": 5, "end": 8 },
+      "class": "6班",
+      "teachers": ["武佳懿"],
+      "location": "4-3210"
+    },
+    {
+      "name": "新时代中国特色社会主义理论与实践",
+      "weekday": 1,
+      "sections": [5,6],
+      "weeks": { "start": 1, "end": 8 },
+      "class": "3班",
+      "teachers": ["王永香"],
+      "location": "5-7107"
+    },
+    {
+      "name": "新时代中国特色社会主义理论与实践",
+      "weekday": 3,
+      "sections": [5,6],
+      "weeks": { "start": 1, "end": 8 },
+      "class": "3班",
+      "teachers": ["王永香"],
+      "location": "5-7107"
+    },
+    {
+      "name": "机器学习工具、平台与系统",
+      "weekday": 1,
+      "sections": [5,6],
+      "weeks": { "start": 9, "end": 16 },
+      "class": "1班",
+      "teachers": ["刘龙军"],
+      "location": "5-1E101"
+    },
+    {
+      "name": "端边云协同的数据聚合与计算模型",
+      "weekday": 1,
+      "sections": [7,8],
+      "weeks": { "start": 1, "end": 8 },
+      "class": "1班",
+      "teachers": ["惠维", "丁菡", "王鸥"],
+      "location": "5-1W105"
+    },
+    {
+      "name": "动手学AI：人工智能通识与实践（理工版）",
+      "weekday": 4,
+      "sections": [3,4],
+      "weeks": { "start": 18, "end": 18 },
+      "class": "1班",
+      "teachers": ["吴琳"],
+      "location": "学习通线上",
+      "type": "考试"
+    },
+    {
+      "name": "动手学AI：人工智能通识与实践（理工版）",
+      "weekday": 5,
+      "sections": [3,4],
+      "weeks": { "start": 18, "end": 18 },
+      "class": "1班",
+      "teachers": ["吴琳"],
+      "location": "学习通线上",
+      "type": "考试"
+    },
+    {
+      "name": "研究生论文写作指导（电信）",
+      "weekday": 3,
+      "sections": [9,10],
+      "weeks": { "start": 9, "end": 16 },
+      "class": "3班",
+      "teachers": [
+        "李永东","曹猛","陈军","管晓宏","李晓","刘青",
+        "刘明","彭文博","史斌","谭文鹏","王耀功",
+        "徐静明","杨青宇","杨晓飞","张光华","张萌",
+        "赵蒙","郑迪","周迪","闫森"
+      ],
+      "location": "5-1W103"
+    }
+  ]
+}

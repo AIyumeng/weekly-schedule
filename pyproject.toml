@@ -1,0 +1,12 @@
+[project]
+name = "week-classes"
+version = "0.1.0"
+description = "PyQt timetable viewer for classes.json"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "PyQt6>=6.7,<7",
+]
+
+[tool.uv]
+package = false
