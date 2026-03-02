@@ -40,20 +40,20 @@
     {
       "name": "新时代中国特色社会主义理论与实践",
       "weekday": 1,
-      "sections": [5,6],
-      "weeks": { "start": 1, "end": 8 },
-      "class": "3班",
-      "teachers": ["王永香"],
-      "location": "5-7107"
+      "sections": [7,8],
+      "weeks": { "start": 9, "end": 16 },
+      "class": "45班",
+      "teachers": ["田建军"],
+      "location": "19-3110"
     },
     {
       "name": "新时代中国特色社会主义理论与实践",
       "weekday": 3,
-      "sections": [5,6],
-      "weeks": { "start": 1, "end": 8 },
-      "class": "3班",
-      "teachers": ["王永香"],
-      "location": "5-7107"
+      "sections": [7,8],
+      "weeks": { "start": 9, "end": 16 },
+      "class": "45班",
+      "teachers": ["田建军"],
+      "location": "19-3110"
     },
     {
       "name": "机器学习工具、平台与系统",
@@ -72,6 +72,24 @@
       "class": "1班",
       "teachers": ["惠维", "丁菡", "王鸥"],
       "location": "5-1W105"
+    },
+    {
+      "name": "Computational Cognitive",
+      "weekday": 3,
+      "sections": [3,4],
+      "weeks": { "start": 1, "end": 8 },
+      "class": "1班",
+      "teachers": ["马永强"],
+      "location": "5-1E103"
+    },
+    {
+      "name": "Computational Cognitive",
+      "weekday": 3,
+      "sections": [5,6],
+      "weeks": { "start": 1, "end": 8 },
+      "class": "1班",
+      "teachers": ["马永强"],
+      "location": "5-1E103"
     },
     {
       "name": "动手学AI：人工智能通识与实践（理工版）",
